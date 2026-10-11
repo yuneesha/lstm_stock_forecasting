@@ -3,6 +3,9 @@
 Deep learning pipeline that forecasts daily closing prices for three coffee-chain stocks: **Starbucks (SBUX)**, **Luckin Coffee (LKNCY)** and **Dutch Bros (BROS)**. It uses a tuned stacked LSTM model built in TensorFlow/Keras.
 
 > Academic project for **DA4131 – Advanced ML Applications for Business**, University of Moratuwa.
+### Group Members
+
+#### Gihini Waidyalankara | Yuneesha Ediriweera | Sanali Wimalarathne
 
 ![Forecast](images/forecast_all.png)
 
